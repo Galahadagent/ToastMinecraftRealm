@@ -14,3 +14,6 @@ A dedicated Minecraft Java and Bedrock Edition Server.
 - New decisions were made
   - Tournaments, if the server has more than 10 players and the player ".x5 5g4839" online.
   - Supplies in a chest whenever any changes or updates are added for the server.
+
+
+                                                                    Last edited by @Galahadagent
