@@ -4,7 +4,7 @@ A dedicated Minecraft Java and Bedrock Edition Server.
 ## 2024, Thu, Nov 28
 Sorry to say that ToastMinecraftRealm will be completely shut down within 6:00 pm Thursday, 28 November 2024
 Coordinated Universal Time (UTC). Also no expectation is available when it will be run online again.
-[Reason: Due to lack of inactivity in the server]
+[Reason: Due to lack of activity in the server]
 
 ## 2024, Sat, Nov 23
 ### The updates were completed
